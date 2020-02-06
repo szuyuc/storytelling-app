@@ -1,3 +1,9 @@
+## Overview
+It is an app for how to name your kids
+## Live Demo
+https://storytelling-app.herokuapp.com
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
